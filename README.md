@@ -6,10 +6,10 @@ Objectif : prouver que Frida, Python-Frida et ADB sont bien installés.
 
 <img width="586" height="107" alt="1" src="https://github.com/user-attachments/assets/eaf00b57-08ec-4302-a631-d8bc73328ef0" />
 
-
+--------
 <img width="958" height="112" alt="2" src="https://github.com/user-attachments/assets/d96c533f-69dd-4e8f-9a37-5576cf2ab447" />
 
-
+--------
 <img width="492" height="161" alt="3" src="https://github.com/user-attachments/assets/4a31ef80-d26b-40c2-a91b-f695c311057f" />
 
 
